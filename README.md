@@ -1,8 +1,30 @@
-# Custom Canvas
+<!-- styled:v2 -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d1726,50:167dfe,100:9533fa&height=180&section=header&text=Custom%20Canvas&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Case%20study%20%E2%80%A2%20E-commerce%20%E2%80%A2%20Personalised%20pet%20art%20store&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Custom Canvas" />
 
 **An online store that turns pet photos and family memories into custom canvas art and tote bags, with an instant preview before ordering.**
 
-![E-commerce](https://img.shields.io/badge/E--commerce-167dfe?style=flat-square) ![Personalised pet art store](https://img.shields.io/badge/Personalised%20pet%20art%20store-9533fa?style=flat-square) ![Shopify](https://img.shields.io/badge/Shopify-231f20?style=flat-square) ![Liquid](https://img.shields.io/badge/Liquid-231f20?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-231f20?style=flat-square) ![Image upload and preview](https://img.shields.io/badge/Image%20upload%20and%20preview-231f20?style=flat-square) ![Make](https://img.shields.io/badge/Make-231f20?style=flat-square)
+<p>
+  <img src="https://img.shields.io/badge/E--commerce-167dfe?style=flat-square" alt="E-commerce" />
+  <img src="https://img.shields.io/badge/Personalised%20pet%20art%20store-9533fa?style=flat-square" alt="Personalised pet art store" />
+  <img src="https://img.shields.io/badge/Shopify-231f20?style=flat-square" alt="Shopify" />
+  <img src="https://img.shields.io/badge/Liquid-231f20?style=flat-square" alt="Liquid" />
+  <img src="https://img.shields.io/badge/JavaScript-231f20?style=flat-square" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Image%20upload%20and%20preview-231f20?style=flat-square" alt="Image upload and preview" />
+  <img src="https://img.shields.io/badge/Make-231f20?style=flat-square" alt="Make" />
+</p>
+
+<p>
+  <a href="#overview">Overview</a> ·
+  <a href="#key-features">Key features</a> ·
+  <a href="#screens">Screens</a> ·
+  <a href="#tech-stack">Tech stack</a>
+</p>
+
+</div>
+
+---
 
 ![Custom Canvas storefront: turn pet photos and memories into custom canvas art with an instant preview.](assets/cover.webp)
 
@@ -32,7 +54,7 @@ A clear storefront built around instant previews, ready-made character and portr
 
 ## Tech stack
 
-Shopify · Liquid · JavaScript · Image upload and preview · Make
+![Shopify](https://img.shields.io/badge/Shopify-1d1726?style=for-the-badge) ![Liquid](https://img.shields.io/badge/Liquid-1d1726?style=for-the-badge) ![JavaScript](https://img.shields.io/badge/JavaScript-1d1726?style=for-the-badge) ![Image upload and preview](https://img.shields.io/badge/Image%20upload%20and%20preview-1d1726?style=for-the-badge) ![Make](https://img.shields.io/badge/Make-1d1726?style=for-the-badge)
 
 ## Screens
 
@@ -53,4 +75,19 @@ Client names and records are confidential. Every screen in this repository uses 
 ## Links
 
 - Case study on Lexvaxa: https://lexvaxa.com/work/custom-canvas
-- Built by **Ch Muhammad Samiullah** ([GitHub](https://github.com/samiullah156-creator)) at [Lexvaxa](https://lexvaxa.com)
+
+---
+
+<div align="center">
+
+**Built by [Ch Muhammad Samiullah](https://github.com/samiullah156-creator)** · AI Automation Engineer and Full-Stack Developer at [Lexvaxa](https://lexvaxa.com)
+
+<a href="https://github.com/samiullah156-creator"><img src="https://img.shields.io/badge/More%20projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="More projects" /></a>
+<a href="https://lexvaxa.com/contact"><img src="https://img.shields.io/badge/Work%20with%20me-167dfe?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Work with me" /></a>
+<a href="https://www.linkedin.com/in/sami-lexvaxa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
+<sub>⭐ Star this repo if you found it useful</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9533fa,50:167dfe,100:1d1726&height=110&section=footer" width="100%" alt="" />
